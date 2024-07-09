@@ -3,8 +3,7 @@
 
 <ul class="publications">
     {% for publication in publications %}
-        <!-- <li class="paper-title" {% if publication.id %}id="{{ publication.id }}"{% endif %}>{{publication.title}}</li> -->
-        <li class="paper-title"><a href="{{publication.url}}">{{publication.title}}</a></li>
+        <li class="paper-title" {% if publication.id %}id="{{ publication.id }}"{% endif %}><a href="{{publication.url}}">{{publication.title}}</a></li>
         <li class="paper-info">{{publication.authors}}. <i>{{publication.journal}}</i></li>
         {% if publication.note %}<li class="paper-note">{{publication.note}}</li>{% endif %}
     {% endfor %}

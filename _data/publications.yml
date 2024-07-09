@@ -66,6 +66,7 @@
   url: https://doi.org/10.1371/journal.pcbi.1010864
   ref: Lipshutz et al. 2023a
   tag: learning
+  id: lda
 - title: Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models during noisy representation learning
   year: 2023
   authors: Qin S, Farashahi S*, Lipshutz D*, Chklovskii DB, Pehlevan C
