@@ -6,14 +6,15 @@ order: 1
 ---
 
 <p>
-We are broadly focused on developing <strong>normative</strong> theories for 
-understanding how large populations of neurons coordinate to robustly process 
-information. Two driving questions are:
+We are broadly focused on understanding how large populations of neurons 
+coordinate to robustly process information. Two driving questions are:
 <ul>
   <li> What are the objectives that describe neural population activities?</li>
   <li> How are these population objectives optimized by collections of neurons
   that learn and adapt using local signals?</li>
 </ul>
+We address these questions by developing <strong>normative</strong> theories and 
+testing these theories on data.
 Some of our recent efforts are listed below.
 </p>
 

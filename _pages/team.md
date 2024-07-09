@@ -11,7 +11,7 @@ order: 2
     {% include member.html %}
 {% endfor %}
 
-<h2 id="join">Postdocs</h2>
+<h2 id="join">Prospective postdocs</h2>
 
 <div>
     <!-- <img src="images/team/avatar.png" alt="You?" width="250" height="250"> -->
@@ -19,15 +19,12 @@ order: 2
 </p>
 </div>
 
-<h2>Graduate students</h2>
+<h2>Prospective graduate students</h2>
 
 <div>
     <!-- <img src="images/team/avatar.png" alt="You?" width="250" height="250"> -->
     <p>To join the lab as a graduate student, you must be in a Ph.D. program 
-  at Baylor College of Medicine or Rice University. Programs to consider 
-  include the Neuroscience or Quantitative & Computational Biosciences 
-  Ph.D. programs at Baylor College of Medicine or the Electrical and 
-  Computer Engineering Ph.D. program at Rice University. If you are in one 
+  at Baylor College of Medicine or Rice University. If you are in one 
   of these programs, email <a href="mailto:lipshutz@gmail.com">lipshutz@gmail.com</a> for rotation opportunities.
 </p>
 </div>
