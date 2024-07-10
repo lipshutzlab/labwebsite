@@ -9,6 +9,7 @@ img {
 	font-weight: 400;
 	font-size: 90%;
 	text-decoration: none;
+	line-height: normal;
 }
 .paper-info {
 	/* color: #4472CA; */
