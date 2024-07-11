@@ -6,7 +6,7 @@ order: 1
 ---
 
 <p>
-We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly process information and how this processing is shaped by learning and adaptation. We primarily address these questions by developing <strong>normative</strong> theories of neural computation and testing these theories on data. For an overview of the normative approach, I recommend this excellent <a href="https://www.youtube.com/watch?v=rP3znbxmyRg">tutorial</a> by Anne Hermundstad. <br><br>
+We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly process information and how this processing is shaped by learning and adaptation. We primarily address these questions by developing <strong>normative</strong> theories of neural computation and testing these theories on data. For an overview of the normative approach, see this excellent <a href="https://www.youtube.com/watch?v=rP3znbxmyRg">tutorial</a> by Anne Hermundstad. <br><br>
 Two driving questions in our lab are:
 <ul>
   <li>What are the objectives that describe how neural populations represent 
