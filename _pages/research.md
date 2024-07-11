@@ -25,11 +25,11 @@ A primary mechanism for learning in the brain is synaptic plasticity. However, t
 
 {% include refs.html tag = "learning" %}
 
-<h3>Adaptive coding efficiency</h3>
+<h3>Adaptive coding efficiency and the role of interneurons</h3>
 
 <p>
 Early sensory systems are thought to efficiently encode information from natural signals using minimal resources. Since environments are constantly in flux, this necessitates sensory systems that can rapidly adapt to changing sensory statistics. There is extensive experimental and theoretical 
-work devoted to understanding adaptation at the single neuron level; however, much less is known about the mechanisms that support adaptation at the neural population level. We develop normative circuit models for understanding how adaptation mechanisms such as gain modulation and synaptic plasticity support efficient coding of sensory information in neural populations. For an overview of this work, see these <a href="/slides/utaustin.pdf">slides</a>.
+work devoted to understanding adaptation at the single neuron level; however, much less is known about the mechanisms that support adaptation at the neural population level. We develop normative circuit models for understanding how adaptation mechanisms such as gain modulation and synaptic plasticity support efficient coding of sensory information in neural populations, with a focus on the role of local inhibitory interneurons. For an overview of this work, see these <a href="/slides/utaustin.pdf">slides</a>.
 </p>
 
 {% include refs.html tag = "adaptation" %}
