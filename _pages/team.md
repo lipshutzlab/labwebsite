@@ -5,8 +5,6 @@ permalink: /team
 order: 2
 ---
 
-<h2>Principal investigator</h2>
-
 {% for member in site.data.members %}
     {% include member.html %}
 {% endfor %}
@@ -14,7 +12,6 @@ order: 2
 <h2 id="join">Prospective postdocs</h2>
 
 <div>
-    <!-- <img src="images/team/avatar.png" alt="You?" width="250" height="250"> -->
     <p>To join the lab as a postdoc, email <a href="mailto:lipshutz@gmail.com">lipshutz@gmail.com</a> with a brief description of your scientific background, your research interests (and how they align with our research), your CV and a list of references.
 </p>
 </div>
@@ -22,9 +19,8 @@ order: 2
 <h2>Prospective graduate students</h2>
 
 <div>
-    <!-- <img src="images/team/avatar.png" alt="You?" width="250" height="250"> -->
     <p>To join the lab as a graduate student, you must be in a Ph.D. program 
-  at Baylor College of Medicine or Rice University. If you are in one 
-  of these programs, email <a href="mailto:lipshutz@gmail.com">lipshutz@gmail.com</a> for rotation opportunities.
+    at Baylor College of Medicine or Rice University. If you are in one 
+    of these programs, email <a href="mailto:lipshutz@gmail.com">lipshutz@gmail.com</a> for rotation opportunities.
 </p>
 </div>

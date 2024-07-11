@@ -25,7 +25,7 @@ A primary mechanism for learning in the brain is synaptic plasticity. However, t
 
 {% include refs.html tag = "learning" %}
 
-<h3>Adaptive coding efficiency and the role of interneurons</h3>
+<h3>Adaptive coding efficiency</h3>
 
 <p>
 Early sensory systems are thought to efficiently encode information from natural signals using minimal resources. Since environments are constantly in flux, this necessitates sensory systems that can rapidly adapt to changing sensory statistics. There is extensive experimental and theoretical 
