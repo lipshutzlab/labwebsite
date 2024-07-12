@@ -19,7 +19,8 @@ img {
 	padding-bottom: 2em;
 }
 .paper-note {
-	color: #9115cf;
+	/* color: #9115cf; */
+	color: #07a71c;
 	font-size: 65%;
 	padding-bottom: 2em;
 	margin-top: -2em;

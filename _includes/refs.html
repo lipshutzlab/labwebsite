@@ -1,6 +1,6 @@
 {% assign publications = site.data.publications | where: "tag", include.tag | reverse %}
 
 <div class="refs">
-Selected publications: {% for publication in publications %}<a href="/publications#{{publication.id}}">{{publication.ref}}</a>{% if forloop.last == false %},
+Selected publications: {% for publication in publications %}<a href="{{publication.url}}">{{publication.ref}}</a>{% if forloop.last == false %},
 {% else %}.{% endif %}{% endfor %}
 </div>
