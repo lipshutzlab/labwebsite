@@ -9,19 +9,19 @@ img {
 }
 .paper-title >a {
 	font-weight: 300;
-	font-size: 80%;
+	font-size: 90%;
 	text-decoration: none;
 }
 .paper-info {
 	/* color: #4472CA; */
 	margin-top: .25em;
-	font-size: 65%;
+	font-size: 75%;
 	padding-bottom: 2em;
 }
 .paper-note {
 	/* color: #9115cf; */
 	color: #07a71c;
-	font-size: 65%;
+	font-size: 75%;
 	padding-bottom: 2em;
 	margin-top: -2em;
 }
