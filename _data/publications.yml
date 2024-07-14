@@ -3,6 +3,7 @@
   authors: Lipshutz D, Simoncelli EP
   journal: arXiv
   url: http://arxiv.org/abs/2405.17745
+  pdf: /papers/lipshutz2024shaping.pdf
   ref: Lipshutz & Simoncelli 2024
   tag: adaptation
   id: gaussianization
@@ -11,6 +12,7 @@
   authors: Lipshutz D*, Nejatbakhsh A*, Williams AH
   journal: ICLR Workshop on Representational Alignment (Re-Align)
   url: https://openreview.net/forum?id=Fykvxdv2I8
+  pdf: /papers/lipshutz2024disentangling.pdf
   ref: Lipshutz*, Nejatbakhsh* & Williams 2024
   tag: metric
   note: Selected for contributed talk
@@ -20,12 +22,14 @@
   authors: Golkar S*, Berman J*, Lipshutz D, Haret RM, Gollisch T, Chklovskii DB
   journal: Physical Review Research
   url: https://doi.org/10.1103/PhysRevResearch.6.013111
+  pdf: /papers/golkar2024neuronal.pdf
   ref: Golkar et al. 2024
 - title: Adaptive whitening with fast gain modulation and slow synaptic plasticity
   year: 2023
   authors: Duong LR, Simoncelli EP, Chklovskii DB, Lipshutz D
   journal: Neural Information Processing Systems (NeurIPS)
   url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
+  pdf: /papers/duong2023adaptive_b.pdf
   ref: Duong et al. 2023
   note: Spotlight presentation
   tag: adaptation
@@ -35,6 +39,7 @@
   authors: Lipshutz D*, Bahroun Y*, Golkar S*, Sengupta AM, Chklovskii DB
   journal: PRX Life
   url: https://doi.org/10.1103/PRXLife.1.013008
+  pdf: /papers/lipshutz2023normative.pdf
   ref: Lipshutz*, Bahroun*, Golkar* et al. 2023
   tag: learning
   id: framework
@@ -43,6 +48,7 @@
   authors: Duong LR*, Lipshutz D*, Heeger DJ, Chklvskii DB, Simoncelli EP
   journal: International Conference on Machine Learning (ICML)
   url: https://proceedings.mlr.press/v202/duong23a.html
+  pdf: /papers/duong2023adaptive_a.pdf  
   ref: Duong*, Lipshutz* et al. 2023
   tag: adaptation
   id: overcomplete
@@ -51,12 +57,14 @@
   authors: Golkar S*, Lipshutz D*, Tesileanu T, Chklovskii DB
   journal: IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   url: https://ieeexplore.ieee.org/abstract/document/10096380
+  pdf: /papers/golkar2023online.pdf
   ref: Golkar et al. 2023
 - title: Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation
   year: 2023
   authors: Lipshutz D, Pehlevan C, Chklovskii DB
   journal: International Conference on Learning Representations (ICLR)
   url: https://openreview.net/forum?id=3mlITJRYYbs
+  pdf: /papers/lipshutz2023interneurons.pdf
   ref: Lipshutz et al. 2023b
   id: accelerate
 - title: A linear discriminant analysis model of imbalanced associative learning in the mushroom body compartment
@@ -64,6 +72,7 @@
   authors: Lipshutz D, Kashalikar A, Farashahi S, Chklovskii DB
   journal: PLoS Computational Biology
   url: https://doi.org/10.1371/journal.pcbi.1010864
+  pdf: /papers/lipshutz2023linear.pdf
   ref: Lipshutz et al. 2023a
   tag: learning
   id: lda
@@ -72,6 +81,7 @@
   authors: Qin S, Farashahi S*, Lipshutz D*, Chklovskii DB, Pehlevan C
   journal: Nature Neuroscience
   url: https://doi.org/10.1038/s41593-022-01225-z
+  pdf: /papers/qin2023coordinated.pdf
   ref: Qin et al. 2023
   tag: learning
   id: drift
@@ -80,18 +90,21 @@
   authors: Genkin A, Lipshutz D, Golkar S, Tesileanu T, Chklovskii DB
   journal: Neural Information Processing Systems (NeurIPS)
   url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
+  pdf: /papers/genkin2022biological.pdf
   ref: Genkin et al. 2022
 - title: Biologically plausible single-layer networks for nonnegative independent component analysis
   year: 2022
   authors: Lipshutz D, Pehlevan C, Chklovskii DB
   journal: Biological Cybernetics
   url: http://doi.org/10.1007/s00422-022-00943-8
+  pdf: /papers/lipshutz2022biologically.pdf
   ref: Lipshutz et al. 2022
 - title: A biologically plausible neural network for multi-channel canonical correlation analysis
   year: 2021
   authors: Lipshutz D*, Bahroun Y*, Golkar S*, Sengupta AM, Chklovskii DB
   journal: Neural Computation
   url: https://doi.org/10.1162/neco_a_01414
+  pdf: /papers/lipshutz2021biologically.pdf
   ref: Lipshutz*, Bahroun*, Golkar* et al. 2021
   tag: learning
   id: cca
@@ -100,12 +113,14 @@
   authors: Golkar S, Lipshutz D, Bahroun Y, Sengupta AM, Chklovskii DB
   journal: Neural Information Processing Systems (NeurIPS)
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
+  pdf: /papers/golkar2020simple.pdf
   ref: Golkar et al. 2020
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
   authors: Lipshutz D*, Windolf C*, Golkar S, Chklovskii DB
   journal: Neural Information Processing Systems (NeurIPS)
   url: https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
+  pdf: /papers/lipshutz2020biologically.pdf
   ref: Lipshutz*, Windolf* et al. 2020
   tag: learning
   id: sfa
