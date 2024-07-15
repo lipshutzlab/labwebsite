@@ -115,6 +115,7 @@
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   pdf: /papers/golkar2020simple.pdf
   ref: Golkar et al. 2020
+  tag: learning
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
   authors: Lipshutz D*, Windolf C*, Golkar S, Chklovskii DB
