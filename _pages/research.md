@@ -6,7 +6,7 @@ order: 1
 ---
 
 <p>
-We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly process information and how this processing is shaped by learning and adaptation. To gain insights, we develop algorithmic frameworks that link computational objectives to processes such as neural dynamics, gain modulation and synaptic plasticity.
+We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly process information and how this processing is shaped by learning and adaptation. To gain insights, we develop algorithmic frameworks that link computational objectives to circuit mechanisms such as neural dynamics, gain modulation and synaptic plasticity.
 <!-- For an overview of the normative approach, see this excellent <a href="https://www.youtube.com/watch?v=rP3znbxmyRg">tutorial</a> by Anne Hermundstad. <br><br> -->
 Some of our recent efforts are described below.
 </p>

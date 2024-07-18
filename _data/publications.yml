@@ -74,7 +74,6 @@
   url: https://doi.org/10.1371/journal.pcbi.1010864
   pdf: /papers/lipshutz2023linear.pdf
   ref: Lipshutz et al. 2023a
-  tag: learning
   id: lda
 - title: Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models during noisy representation learning
   year: 2023
@@ -115,7 +114,6 @@
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   pdf: /papers/golkar2020simple.pdf
   ref: Golkar et al. 2020
-  tag: learning
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
   authors: Lipshutz D*, Windolf C*, Golkar S, Chklovskii DB
@@ -123,5 +121,4 @@
   url: https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
   pdf: /papers/lipshutz2020biologically.pdf
   ref: Lipshutz*, Windolf* et al. 2020
-  tag: learning
   id: sfa
