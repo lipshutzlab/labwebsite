@@ -9,14 +9,18 @@ order: 2
     {% include member.html %}
 {% endfor %}
 
-<h2 id="join">Prospective postdocs</h2>
+<br>
+
+<h1 id="join">Join us!</h1>
+
+<h3>Prospective postdocs</h3>
 
 <div>
     <p>To join the lab as a postdoc, email <a href="mailto:lipshutz@gmail.com">lipshutz@gmail.com</a> with a brief description of your scientific background, your research interests (and how they align with our research), your CV and a list of references.
 </p>
 </div>
 
-<h2>Prospective graduate students</h2>
+<h3>Prospective graduate students</h3>
 
 <div>
     <p>To join the lab as a graduate student, you must be in a Ph.D. program 
