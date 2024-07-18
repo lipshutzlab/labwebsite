@@ -41,7 +41,6 @@
   url: https://doi.org/10.1103/PRXLife.1.013008
   pdf: /papers/lipshutz2023normative.pdf
   ref: Lipshutz*, Bahroun*, Golkar* et al. 2023
-  tag: learning
   id: framework
 - title: Adaptive whitening in neural populations with gain-modulating interneurons
   year: 2023
@@ -113,6 +112,7 @@
   journal: Neural Information Processing Systems (NeurIPS)
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   pdf: /papers/golkar2020simple.pdf
+  tag: learning
   ref: Golkar et al. 2020
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
