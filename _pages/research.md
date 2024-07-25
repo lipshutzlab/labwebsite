@@ -16,7 +16,7 @@ Some of our recent efforts are described below.
 <h3>Learning and synaptic plasticity</h3>
 
 <p>
-A primary mechanism for learning in the brain is synaptic plasticity. However, the relationship between changes at the synaptic level and associated changes in the neural responses at the population level remains poorly understood. We develop algorithmic frameworks that link population level learning objectives and synaptic plasticity rules, with an emphasis on non-Hebbian forms of synaptic plasticity. For an overview this work, see our <a href="https://doi.org/10.1103/PRXLife.1.013008">review article</a> and <a href="/slides/njit.pdf">slides</a> from a recent talk.
+A primary mechanism for learning in the brain is synaptic plasticity. However, the relationship between changes at the synaptic level and associated changes in the neural responses at the population level remains poorly understood. We develop algorithmic frameworks that link population level learning objectives and synaptic plasticity rules, with an emphasis on non-Hebbian forms of synaptic plasticity. For an overview this work, see our <a href="/papers/lipshutz2023normative.pdf">review article</a> and <a href="/slides/njit.pdf">slides</a> from a recent talk.
 </p>
 
 {% include refs.html tag = "learning" %}
