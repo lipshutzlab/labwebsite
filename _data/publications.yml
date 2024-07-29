@@ -44,7 +44,7 @@
   id: framework
 - title: Adaptive whitening in neural populations with gain-modulating interneurons
   year: 2023
-  authors: Duong LR*, Lipshutz D*, Heeger DJ, Chklvskii DB, Simoncelli EP
+  authors: Duong LR*, Lipshutz D*, Heeger DJ, Chklovskii DB, Simoncelli EP
   journal: International Conference on Machine Learning (ICML)
   url: https://proceedings.mlr.press/v202/duong23a.html
   pdf: /papers/duong2023adaptive_a.pdf  
