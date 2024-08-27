@@ -8,8 +8,8 @@ order: 1
 <br>
 
 <p>
-We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly compute and how this computation is shaped by learning and adaptation. To gain insights, we develop algorithmic frameworks that link computational objectives to circuit mechanisms such as neural dynamics, gain modulation and synaptic plasticity.
-<!-- For an overview of the normative approach, see this excellent <a href="https://www.youtube.com/watch?v=rP3znbxmyRg">tutorial</a> by Anne Hermundstad. <br><br> -->
+We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly compute and how this computation is shaped by learning and adaptation. 
+To gain insights, we develop algorithmic frameworks that link circuit computations to mechanisms such as neural dynamics, gain modulation and synaptic plasticity.
 Some of our recent efforts are described below.
 </p>
 
@@ -21,18 +21,18 @@ A primary mechanism for learning in the brain is synaptic plasticity. However, t
 
 {% include refs.html tag = "learning" %}
 
-<h3>Adaptive coding efficiency and the role of interneurons</h3>
+<h3>Adaptive coding efficiency in neural populations</h3>
 
 <p>
-Early sensory systems are thought to <a href="https://en.wikipedia.org/wiki/Efficient_coding_hypothesis">efficiently encode</a> natural signals using the available resources. Since environments are constantly in flux, this necessitates sensory systems that can rapidly adapt to changing signal statistics. There is extensive experimental and theoretical work devoted to understanding adaptation at the single neuron level; however, much less is known about the mechanisms that support adaptation at the neural population level. We develop circuit models that demonstrate how adaptation mechanisms such as gain modulation and synaptic plasticity can support efficient coding in neural populations. We are particularly interested in the role of local inhibitory interneurons in reshaping excitatory neural responses into efficient representations. For an overview of this work, see <a href="/slides/utaustin.pdf">slides</a> from a recent talk.
+Early sensory systems are thought to <a href="https://en.wikipedia.org/wiki/Efficient_coding_hypothesis">efficiently encode</a> natural signals using the available resources. Since environments are constantly in flux, this necessitates sensory systems that can rapidly adapt to changing signal statistics. There is extensive experimental and theoretical work devoted to understanding adaptation at the single neuron level; however, much less is known about the mechanisms that support adaptation at the neural population level. We develop circuit models that demonstrate how adaptation mechanisms such as gain modulation and synaptic plasticity can support efficient coding in neural populations. We are particularly interested in the role local inhibitory interneurons may serve in reshaping excitatory neural responses into efficient representations. For an overview of this work, see <a href="/slides/utaustin.pdf">slides</a> from a recent talk.
 </p>
 
 {% include refs.html tag = "adaptation" %}
 
-<h3>Representational similarity metrics</h3>
+<h3>Metrics for comparing neural systems</h3>
 
 <p>
-A challenge at the intersection of neuroscience and machine learning is to understand if neural systems compute similarly. Comparing neural systems is challenging in part because neural responses to stimuli are high-dimensional, noisy and dynamic. We develop methods for quantifying the similarity between neural responses.
+A challenge at the intersection of neuroscience and machine learning is to understand if neural systems compute similarly. For example, given an artificial neural network that processes images, is it a good model of computations in the human visual system? Comparing neural systems is challenging in part because neural responses to stimuli are high-dimensional, noisy and dynamic. We develop methods for quantifying the similarity between neural systems with high-dimensional noisy responses.
 </p>
 
 {% include refs.html tag = "metric" %}
