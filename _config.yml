@@ -6,7 +6,7 @@ url:                 https://lipshutzlab.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-email:               lipshutz@gmail.com
+email:               David.Lipshutz@bcm.edu
 
 include:
   - _pages
