@@ -1,3 +1,8 @@
+- title: Discriminating image representations with principal distortions
+  year: preprint
+  authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
+  ref: Feather*, Lipshutz* et al. 2024
+  pdf: /papers/feather2024discriminating.pdf
 - title: Shaping the distribution of neural responses with interneurons in a recurrent circuit model
   year: 2024
   authors: Lipshutz D, Simoncelli EP
