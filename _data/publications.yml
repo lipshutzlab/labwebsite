@@ -1,7 +1,9 @@
-# - title: Discriminating image representations with principal distortions
-#   year: Preprints
-#   authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
-#   ref: Feather*, Lipshutz* et al. 2024
+- title: Discriminating image representations with principal distortions
+  year: Preprints
+  authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
+  pdf: /papers/feather2024discriminating.pdf
+  ref: Feather*, Lipshutz* et al. 2024
+  tag: metric
 # - title: Comparing noisy neural population dynamics with optimal transport distances
 #   year: Preprints
 #   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
