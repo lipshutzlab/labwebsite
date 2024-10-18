@@ -1,17 +1,18 @@
-- title: Discriminating image representations with principal distortions
-  year: Preprints
-  authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
-  pdf: /papers/feather2024discriminating.pdf
-  ref: Feather*, Lipshutz* et al. 2024
-  tag: metric
 # - title: Comparing noisy neural population dynamics with optimal transport distances
 #   year: Preprints
 #   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
 #   ref: Nejatbakhsh et al. 2024
+- title: Discriminating image representations with principal distortions
+  year: 2024
+  authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
+  journal: Preprint
+  pdf: /papers/feather2024discriminating.pdf
+  ref: Feather*, Lipshutz* et al. 2024
+  tag: metric
 - title: Shaping the distribution of neural responses with interneurons in a recurrent circuit model
   year: 2024
   authors: Lipshutz D, Simoncelli EP
-  journal: Neural Information Processing Systems (NeurIPS)
+  journal: Neural Information Processing Systems
   url: http://arxiv.org/abs/2405.17745
   pdf: /papers/lipshutz2024shaping.pdf
   ref: Lipshutz & Simoncelli 2024
@@ -20,7 +21,7 @@
 - title: Disentangling recurrent neural dynamics with stochastic represenational geometry
   year: 2024
   authors: Lipshutz D*, Nejatbakhsh A*, Williams AH
-  journal: ICLR Workshop on Representational Alignment (Re-Align)
+  journal: ICLR Workshop on Representational Alignment
   url: https://openreview.net/forum?id=Fykvxdv2I8
   pdf: /papers/lipshutz2024disentangling.pdf
   ref: Lipshutz*, Nejatbakhsh* & Williams 2024
@@ -37,7 +38,7 @@
 - title: Adaptive whitening with fast gain modulation and slow synaptic plasticity
   year: 2023
   authors: Duong LR, Simoncelli EP, Chklovskii DB, Lipshutz D
-  journal: Neural Information Processing Systems (NeurIPS)
+  journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/297fe652867e4897e9f1fe1cd715de19-Abstract-Conference.html
   pdf: /papers/duong2023adaptive_b.pdf
   ref: Duong et al. 2023
@@ -55,7 +56,7 @@
 - title: Adaptive whitening in neural populations with gain-modulating interneurons
   year: 2023
   authors: Duong LR*, Lipshutz D*, Heeger DJ, Chklovskii DB, Simoncelli EP
-  journal: International Conference on Machine Learning (ICML)
+  journal: International Conference on Machine Learning
   url: https://proceedings.mlr.press/v202/duong23a.html
   pdf: /papers/duong2023adaptive_a.pdf  
   ref: Duong*, Lipshutz* et al. 2023
@@ -64,14 +65,14 @@
 - title: An online algorithm for contrastive principal component analysis
   year: 2023
   authors: Golkar S*, Lipshutz D*, Tesileanu T, Chklovskii DB
-  journal: IEEE Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  journal: IEEE Conference on Acoustics, Speech, and Signal Processing
   url: https://ieeexplore.ieee.org/abstract/document/10096380
   pdf: /papers/golkar2023online.pdf
   ref: Golkar et al. 2023
 - title: Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation
   year: 2023
   authors: Lipshutz D, Pehlevan C, Chklovskii DB
-  journal: International Conference on Learning Representations (ICLR)
+  journal: International Conference on Learning Representations
   url: https://openreview.net/forum?id=3mlITJRYYbs
   pdf: /papers/lipshutz2023interneurons.pdf
   ref: Lipshutz et al. 2023b
@@ -119,7 +120,7 @@
 - title: A simple normative network approximates local non-Hebbian learning in the cortex
   year: 2020
   authors: Golkar S, Lipshutz D, Bahroun Y, Sengupta AM, Chklovskii DB
-  journal: Neural Information Processing Systems (NeurIPS)
+  journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   pdf: /papers/golkar2020simple.pdf
   tag: learning
@@ -127,7 +128,7 @@
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
   authors: Lipshutz D*, Windolf C*, Golkar S, Chklovskii DB
-  journal: Neural Information Processing Systems (NeurIPS)
+  journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
   pdf: /papers/lipshutz2020biologically.pdf
   ref: Lipshutz*, Windolf* et al. 2020
