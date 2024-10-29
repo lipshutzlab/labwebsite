@@ -2,10 +2,11 @@
 #   year: Preprints
 #   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
 #   ref: Nejatbakhsh et al. 2024
+#   tag: metric
 - title: Discriminating image representations with principal distortions
   year: 2024
   authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
-  journal: Preprint
+  journal: Preprints
   pdf: /papers/feather2024discriminating.pdf
   ref: Feather*, Lipshutz* et al. 2024
   tag: metric
@@ -97,7 +98,7 @@
 - title: Biological learning of irreducible representations of commuting transformations
   year: 2022
   authors: Genkin A, Lipshutz D, Golkar S, Tesileanu T, Chklovskii DB
-  journal: Neural Information Processing Systems (NeurIPS)
+  journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/834f4c0b8d241b4943a9dcb77fd85675-Abstract-Conference.html
   pdf: /papers/genkin2022biological.pdf
   ref: Genkin et al. 2022
