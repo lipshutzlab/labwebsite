@@ -28,7 +28,7 @@
   ref: Lipshutz & Simoncelli 2024
   tag: adaptation
   id: gaussianization
-- title: Disentangling recurrent neural dynamics with stochastic represenational geometry
+- title: Disentangling recurrent neural dynamics with stochastic representational geometry
   year: 2024
   authors: Lipshutz D*, Nejatbakhsh A*, Williams AH
   journal: ICLR Workshop on Representational Alignment
