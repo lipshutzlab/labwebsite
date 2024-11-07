@@ -1,6 +1,7 @@
 # - title: Comparing noisy neural population dynamics with optimal transport distances
 #   year: Preprints
 #   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
+#   journal: Preprint
 #   ref: Nejatbakhsh et al. 2024
 #   tag: metric
 - title: Discriminating image representations with principal distortions
@@ -10,6 +11,13 @@
   pdf: /papers/feather2024discriminating.pdf
   ref: Feather*, Lipshutz* et al. 2024
   tag: metric
+- title: What Representational Similarity Measures Imply about Decodable Information
+  year: 2024
+  authors: Harvery SE, Lipshutz D, Williams AH
+  journal: Proceedings of UniReps
+  pdf: /papers/harvey2024representational.pdf
+  ref: Harvey et al. 2024
+  note: Best paper award
 - title: Shaping the distribution of neural responses with interneurons in a recurrent circuit model
   year: 2024
   authors: Lipshutz D, Simoncelli EP
