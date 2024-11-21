@@ -8,7 +8,7 @@
         {% if member.links.google-scholar %}<a href="https://scholar.google.com/citations?user={{ member.links.google-scholar }}"><i class="fa-brands fa-google-scholar"></i></a> &nbsp;{% endif %}
         {% if member.links.github %}<a href="https://github.com/{{ member.links.github }}"><i class="fa-brands fa-github"></i></a> &nbsp;{% endif %}
         {% if member.links.twitter %}<a href="https://twitter.com/{{ member.links.twitter }}"><i class="fa-brands fa-twitter"></i></a>{% endif %}
-        {% if member.links.bluesky %}<a href="{{ member.links.bluesky }}.bsky.social"><i class="fa-brands fa-bluesky"></i></a>{% endif %}
+        {% if member.links.bluesky %}<a href="https://{{ member.links.bluesky }}.bsky.social"><i class="fa-brands fa-bluesky"></i></a>{% endif %}
     </h3>
     <p>{{ member.bio }}</p>
 </div>
