@@ -32,7 +32,7 @@ Early sensory systems are thought to <a href="https://en.wikipedia.org/wiki/Effi
 <h3>Metrics for comparing neural systems</h3>
 
 <p>
-A challenge at the intersection of neuroscience and machine learning is to understand if neural systems compute similarly. For example, given an artificial neural network that processes images, is it a good model of computations in the human visual system? Comparing neural systems is challenging in part because neural responses to stimuli are high-dimensional, noisy and dynamic. We develop methods for quantifying the similarity between neural systems with high-dimensional noisy responses.
+A challenge at the intersection of neuroscience and machine learning is to understand if two neural systems (biological or artificial) compute similarly. For example, does an artificial deep neural network compute similarly to the human visual system? Comparing neural systems is challenging in part because neural responses (or representations) are high-dimensional, noisy and dynamic. We develop methods for quantifying the similarity between neural representations that are stochastic and/or dynamic.
 </p>
 
 {% include refs.html tag = "metric" %}
