@@ -1,16 +1,16 @@
 - title: Comparing noisy neural population dynamics with optimal transport distances
-  year: 2024
+  year: 2025
   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
-  journal: Preprint
+  journal: International Conference on Learning Representations
   pdf: /papers/nejatbakhsh2024comparing.pdf
-  ref: Nejatbakhsh et al. 2024
+  ref: Nejatbakhsh et al. 2025
   tag: metric
 - title: Discriminating image representations with principal distortions
-  year: 2024
+  year: 2025
   authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
-  journal: Preprint
+  journal: International Conference on Learning Representations
   pdf: /papers/feather2024discriminating.pdf
-  ref: Feather*, Lipshutz* et al. 2024
+  ref: Feather*, Lipshutz* et al. 2025
   tag: metric
 - title: What representational similarity measures imply about decodable information
   year: 2024
