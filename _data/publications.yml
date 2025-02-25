@@ -1,3 +1,9 @@
+- title: Modeling neural activity with conditionally linear dynamical systems
+  year: 2025
+  authors: Geadah V, Nejatbakhsh A, Lipshutz D, Pillow JW, Williams AH
+  journal: Preprint
+  pdf: /papers/geadah2025modeling.pdf
+  ref: Geadah et al. 2025
 - title: Comparing noisy neural population dynamics with optimal transport distances
   year: 2025
   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
