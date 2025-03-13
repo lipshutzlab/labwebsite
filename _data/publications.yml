@@ -8,7 +8,7 @@
   year: 2025
   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
   journal: International Conference on Learning Representations
-  pdf: /papers/nejatbakhsh2024comparing.pdf
+  pdf: /papers/nejatbakhsh2025comparing.pdf
   ref: Nejatbakhsh et al. 2025
   note: Oral presentation
   tag: metric
@@ -16,7 +16,7 @@
   year: 2025
   authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
   journal: International Conference on Learning Representations
-  pdf: /papers/feather2024discriminating.pdf
+  pdf: /papers/feather2025discriminating.pdf
   ref: Feather*, Lipshutz* et al. 2025
   tag: metric
 - title: What representational similarity measures imply about decodable information
