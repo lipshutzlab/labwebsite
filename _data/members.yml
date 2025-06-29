@@ -3,14 +3,41 @@
   image: /images/team/Lipshutz_David.jpg
   role: pi
   links:
-    email: lipshutz@gmail.com
+    email: david.lipshutz@bcm.edu
     orcid: 0000-0001-9347-8326
     google-scholar: XeWdtXcAAAAJ
     github: dlipshutz
     bluesky: lipshutz
-  bio: David joined the <a href="https://www.bcm.edu/departments/neuroscience">Department of Neuroscience</a> 
-    at Baylor College of Medicine as an Assistant Professor in January 2025. Before that, he was an associate 
-    research scientist in the Center for Computational Neuroscience at the Flatiron Institute. Prior to 
-    working in theoretical neuroscience, he received his Ph.D. in Mathematics from University of California, 
-    San Diego and held postdoctoral positions in Applied Mathematics at Brown University and in Electrical 
-    Engineering at the Technion.
+  bio: Assistant Professor
+
+- name: Josue Casco-Rodriguez
+  # image: /images/team/Casco-Rodriguez_Josue.png
+  role: grad
+  links:
+    email: jc135@rice.edu
+    google-scholar: bjjWicEAAAAJ
+  bio: Rice ECE Graduate Student
+  
+- name: Sanjeev Rajakumar
+  image:
+  role: undergrad
+  links:
+    email: sr115@rice.edu
+    github: Sanj-R
+  bio: Rice CS & Math Undergraduate Student
+
+- name: Luisa Martinez
+  image:
+  role: undergrad
+  links:
+    email: lim6@rice.edu
+    github: luisa0martinez
+  bio: Rice CS Undergraduate Student
+
+- name: Tehrim Yoon
+  title: Ph.D.
+  image:
+  role: postdoc
+  links:
+    email: tehrim.yoon@bcm.edu
+  bio: Postdoctoral Fellow
