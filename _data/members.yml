@@ -8,11 +8,7 @@
     google-scholar: XeWdtXcAAAAJ
     github: dlipshutz
     bluesky: lipshutz
-  bio: Assistant Professor
-  # David joined the Department of Neuroscience at Baylor College of Medicine as an Assistant Professor in January 2025. 
-  # Before that, he was an associate research scientist in the Center for Computational Neuroscience at the Flatiron Institute. 
-  # Prior to working in theoretical neuroscience, he received his Ph.D. in Mathematics from University of California, San Diego 
-  # and held postdoctoral positions in Applied Mathematics at Brown University and in Electrical Engineering at the Technion.
+  bio: David is an Assistant Professor of Neuroscience at Baylor College of Medicine. Before joining BCM, he was an Associate Research Scientist in Computational Neuroscience at the Flatiron Institute. Prior to working in theoretical neuroscience, he received his Ph.D. in Mathematics from University of California, San Diego and held postdoctoral positions in Applied Mathematics at Brown University and in Electrical Engineering at the Technion.
 
 - name: Josue Casco-Rodriguez
   image: /images/team/Casco-Rodriguez_Josue.png
@@ -20,25 +16,25 @@
   links:
     email: jc135@rice.edu
     google-scholar: bjjWicEAAAAJ
-  bio: Rice ECE Graduate Student
+  bio: Josue is a graduate student in Electrical and Computer Engineering at Rice University.
   
 - name: Sanjeev Rajakumar
   role: undergrad
   links:
     email: sr115@rice.edu
     github: Sanj-R
-  bio: Rice CS & Math Undergraduate Student
+  bio: Sanjeev is an undergraduate student at Rice university majoring in Computer Science and Mathematics.
 
 - name: Luisa Martinez
   role: undergrad
   links:
     email: lim6@rice.edu
     github: luisa0martinez
-  bio: Rice CS Undergraduate Student
+  bio: Luisa is an undergraduate student at Rice university majoring in Computer Science.
 
 - name: Tehrim Yoon
   title: Ph.D.
   role: postdoc
   links:
     email: tehrim.yoon@bcm.edu
-  bio: Postdoctoral Fellow
+  bio: Tehrim is a postdoctoral researcher in the Department of Neuroscience at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
