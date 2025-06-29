@@ -1,6 +1,6 @@
 
 <div>
-    <img src="{{ member.image }}" alt="{{ member.name }}" width="250" height="250">
+    {% if member.image %}<img src="{{ member.image }}" alt="{{ member.name }}" width="250" height="250">{% endif %}
     <h3> 
         {{ member.name }}{% if member.title %}, {{ member.title }}{% endif %} &nbsp;
         {% if member.links.email %}<a href="mailto:{{ member.links.email }}"><i class="fa-solid fa-envelope"></i></a> &nbsp;{% endif %}
