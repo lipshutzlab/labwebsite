@@ -9,9 +9,12 @@
     github: dlipshutz
     bluesky: lipshutz
   bio: Assistant Professor
+  # David joined the Department of Neuroscience at Baylor College of Medicine as an Assistant Professor in January 2025. 
+  # Before that, he was an associate research scientist in the Center for Computational Neuroscience at the Flatiron Institute. 
+  # Prior to working in theoretical neuroscience, he received his Ph.D. in Mathematics from University of California, San Diego 
+  # and held postdoctoral positions in Applied Mathematics at Brown University and in Electrical Engineering at the Technion.
 
 - name: Josue Casco-Rodriguez
-  # image: /images/team/Casco-Rodriguez_Josue.png
   role: grad
   links:
     email: jc135@rice.edu
@@ -19,7 +22,6 @@
   bio: Rice ECE Graduate Student
   
 - name: Sanjeev Rajakumar
-  image:
   role: undergrad
   links:
     email: sr115@rice.edu
@@ -27,7 +29,6 @@
   bio: Rice CS & Math Undergraduate Student
 
 - name: Luisa Martinez
-  image:
   role: undergrad
   links:
     email: lim6@rice.edu
@@ -36,7 +37,6 @@
 
 - name: Tehrim Yoon
   title: Ph.D.
-  image:
   role: postdoc
   links:
     email: tehrim.yoon@bcm.edu
