@@ -39,6 +39,7 @@
 
 - name: Tehrim Yoon
   title: Ph.D.
+  image: /images/team/tehrim_yoon.jpeg
   role: postdoc
   links:
     email: tehrim.yoon@bcm.edu
@@ -46,6 +47,7 @@
   bio: Tehrim is a postdoctoral associate at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
 
 - name: Ishanel Martinez
+  image: /images/team/ishanel_martinez.jpeg
   role: undergrad
   links:
     email: im61@rice.edu
@@ -53,6 +55,7 @@
   bio: Ishanel is an undergraduate student at Rice University majoring in Electrical and Computer Engineering.
 
 - name: Joshua Stallings
+  image: /images/team/joshua_stallings.jpeg
   role: undergrad
   links:
     email: js232@rice.edu
