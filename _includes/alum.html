@@ -1,0 +1,9 @@
+
+<div>
+    <h3> 
+        {{ member.name }}{% if member.title %}, {{ member.title }}{% endif %} &nbsp;
+        {% if member.links.linkedin %}<a href="https://www.linkedin.com/in/{{ member.links.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}
+    </h3>
+    <p>{{ member.bio }}</p>
+    <br>
+</div>
