@@ -5,7 +5,7 @@ permalink: /team
 order: 2
 ---
 
-### PI
+## Principal Investigator
 <br>
 {% for member in site.data.members %}
   {% if member.role == "pi" %}
@@ -13,7 +13,7 @@ order: 2
   {% endif %}
 {% endfor %}
 
-### Postdocs
+## Postdocs
 <br>
 {% for member in site.data.members %}
   {% if member.role == "postdoc" %}
@@ -21,7 +21,7 @@ order: 2
   {% endif %}
 {% endfor %}
 
-### Graduate Students
+## Graduate Students
 <br>
 {% for member in site.data.members %}
   {% if member.role == "grad" %}
@@ -29,7 +29,7 @@ order: 2
   {% endif %}
 {% endfor %}
 
-### Undergraduate Research Assistants
+## Undergraduate Research Assistants
 <br>
 {% for member in site.data.members %}
   {% if member.role == "undergrad" %}
@@ -37,7 +37,7 @@ order: 2
   {% endif %}
 {% endfor %}
 
-### Alumni
+## Alumni
 <br>
 {% for member in site.data.members %}
   {% if member.role == "alum" %}
