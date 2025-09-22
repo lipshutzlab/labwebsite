@@ -30,7 +30,7 @@
 
 - name: Luisa Martinez
   image: /images/team/Martinez_Luisa.jpg
-  role: undergrad
+  role: alum
   links:
     email: lim6@rice.edu
     github: luisa0martinez
@@ -42,4 +42,19 @@
   role: postdoc
   links:
     email: tehrim.yoon@bcm.edu
+    linkedin: tehrim-yoon-440930210
   bio: Tehrim is a postdoctoral associate at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
+
+- name: Ishanel Martinez
+  role: undergrad
+  links:
+    email: im61@rice.edu
+    linkedin: ishanel-martinez-a5b1ab248
+  bio: Ishanel is an undergraduate student at Rice University majoring in Electrical and Computer Engineering.
+
+- name: Joshua Stallings
+  role: undergrad
+  links:
+    email: js232@rice.edu
+    linkedin: josh---stallings
+  bio: Joshua is an undergraduate student at Rice University majoring in Computer Science.

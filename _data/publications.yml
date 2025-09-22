@@ -1,13 +1,14 @@
 - title: Modeling neural activity with conditionally linear dynamical systems
   year: 2025
   authors: Geadah V, Nejatbakhsh A, Lipshutz D, Pillow JW, Williams AH
-  journal: Preprint
+  journal: Neural Information Processing Systems
   pdf: /papers/geadah2025modeling.pdf
   ref: Geadah et al. 2025
 - title: Comparing noisy neural population dynamics with optimal transport distances
   year: 2025
   authors: Nejatbakhsh A, Geadah V, Williams AH, Lipshutz D
   journal: International Conference on Learning Representations
+  url: https://openreview.net/forum?id=cNmu0hZ4CL
   pdf: /papers/nejatbakhsh2025comparing.pdf
   ref: Nejatbakhsh et al. 2025
   note: Oral presentation
@@ -17,6 +18,7 @@
   authors: Feather J*, Lipshutz D*, Harvey SE, Williams AH, Simoncelli EP
   journal: International Conference on Learning Representations
   pdf: /papers/feather2025discriminating.pdf
+  url: https://openreview.net/forum?id=ugXGFCS6HK
   ref: Feather*, Lipshutz* et al. 2025
   tag: metric
 - title: What representational similarity measures imply about decodable information
@@ -31,7 +33,7 @@
   year: 2024
   authors: Lipshutz D, Simoncelli EP
   journal: Neural Information Processing Systems
-  url: http://arxiv.org/abs/2405.17745
+  url: https://proceedings.neurips.cc/paper_files/paper/2024/hash/3c215225324f9988858602dc92219615-Abstract-Conference.html
   pdf: /papers/lipshutz2024shaping.pdf
   ref: Lipshutz & Simoncelli 2024
   tag: adaptation
