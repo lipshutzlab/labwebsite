@@ -6,6 +6,7 @@ order: 2
 ---
 
 ### PI
+<br>
 {% for member in site.data.members %}
   {% if member.role == "pi" %}
     {% include member.html %}
@@ -13,6 +14,7 @@ order: 2
 {% endfor %}
 
 ### Postdocs
+<br>
 {% for member in site.data.members %}
   {% if member.role == "postdoc" %}
     {% include member.html %}
@@ -20,6 +22,7 @@ order: 2
 {% endfor %}
 
 ### Graduate Students
+<br>
 {% for member in site.data.members %}
   {% if member.role == "grad" %}
     {% include member.html %}
@@ -27,6 +30,7 @@ order: 2
 {% endfor %}
 
 ### Undergraduate Research Assistants
+<br>
 {% for member in site.data.members %}
   {% if member.role == "undergrad" %}
     {% include member.html %}
@@ -34,7 +38,7 @@ order: 2
 {% endfor %}
 
 ### Alumni
-
+<br>
 {% for member in site.data.members %}
   {% if member.role == "alum" %}
     {% include alum.html %}
