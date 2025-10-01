@@ -142,7 +142,6 @@
   journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper/2020/hash/5133aa1d673894d5a05b9d83809b9dbe-Abstract.html
   pdf: /papers/golkar2020simple.pdf
-  tag: learning
   ref: Golkar et al. 2020
 - title: A biologically plausible neural network for slow feature analysis
   year: 2020
@@ -150,5 +149,6 @@
   journal: Neural Information Processing Systems
   url: https://proceedings.neurips.cc/paper/2020/hash/ab73f542b6d60c4de151800b8abc0a6c-Abstract.html
   pdf: /papers/lipshutz2020biologically.pdf
+  tag: learning
   ref: Lipshutz*, Windolf* et al. 2020
   id: sfa
