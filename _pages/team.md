@@ -5,40 +5,40 @@ permalink: /team
 order: 2
 ---
 
-## Principal Investigator
-<br>
+<h3>Principal Investigator</h3>
+
 {% for member in site.data.members %}
   {% if member.role == "pi" %}
     {% include member.html %}
   {% endif %}
 {% endfor %}
 
-## Postdocs
-<br>
+<h3>Postdocs</h3>
+
 {% for member in site.data.members %}
   {% if member.role == "postdoc" %}
     {% include member.html %}
   {% endif %}
 {% endfor %}
 
-## Graduate Students
-<br>
+<h3>Graduate Students</h3>
+
 {% for member in site.data.members %}
   {% if member.role == "grad" %}
     {% include member.html %}
   {% endif %}
 {% endfor %}
 
-## Undergraduate Research Assistants
-<br>
+<h3>Undergraduate Research Assistants</h3>
+
 {% for member in site.data.members %}
   {% if member.role == "undergrad" %}
     {% include member.html %}
   {% endif %}
 {% endfor %}
 
-## Alumni
-<br>
+<h3>Alumni</h3>
+
 {% for member in site.data.members %}
   {% if member.role == "alum" %}
     {% include alum.html %}

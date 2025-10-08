@@ -1,7 +1,7 @@
 
 <div>
     {% if member.image %}<img src="{{ member.image }}" alt="{{ member.name }}" width="250" height="250">{% endif %}
-    <h3> 
+    <h4> 
         {{ member.name }}{% if member.title %}, {{ member.title }}{% endif %} &nbsp;
         {% if member.links.email %}<a href="mailto:{{ member.links.email }}"><i class="fa-solid fa-envelope"></i></a> &nbsp;{% endif %}
         {% if member.links.website %}<a href="{{ member.links.website }}"><i class="fa-solid fa-link"></i></a> &nbsp;{% endif %}
@@ -10,7 +10,7 @@
         {% if member.links.twitter %}<a href="https://twitter.com/{{ member.links.twitter }}"><i class="fa-brands fa-twitter"></i></a>{% endif %}
         {% if member.links.bluesky %}<a href="https://{{ member.links.bluesky }}.bsky.social"><i class="fa-brands fa-bluesky"></i></a>{% endif %}
         {% if member.links.linkedin %}<a href="https://www.linkedin.com/in/{{ member.links.linkedin }}"><i class="fa-brands fa-linkedin-in"></i></a>{% endif %}
-    </h3>
+    </h4>
     <p>{{ member.bio }}</p>
     <br>
 </div>
