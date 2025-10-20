@@ -5,6 +5,8 @@ permalink: /team
 order: 2
 ---
 
+<br>
+
 <h3>Principal Investigator</h3>
 
 {% for member in site.data.members %}
