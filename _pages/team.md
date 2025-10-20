@@ -5,8 +5,6 @@ permalink: /team
 order: 2
 ---
 
-<br>
-
 {% for member in site.data.members %}
   {% if member.role == "pi" %}
     {% include member.html %}
