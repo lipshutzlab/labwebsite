@@ -5,8 +5,6 @@ permalink: research
 order: 1
 ---
 
-<br>
-
 <p>
 We are broadly interested in understanding how large populations of neurons coordinate to efficiently and robustly compute and how this computation is shaped by learning and adaptation. 
 To gain insights, we develop algorithmic frameworks that link circuit computations to mechanisms such as neural dynamics, gain modulation and synaptic plasticity.
