@@ -31,6 +31,8 @@ order: 2
   {% endif %}
 {% endfor %}
 
+<h2>Alum</h2>
+
 {% for member in site.data.members %}
   {% if member.role == "alum" %}
     {% include alum.html %}
