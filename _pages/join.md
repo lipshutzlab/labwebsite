@@ -9,8 +9,7 @@ order: 4
 
 <div>
     <p>To join the lab as a postdoc or research assistant, email <a href="mailto:david.lipshutz@bcm.edu">david.lipshutz@bcm.edu</a> 
-    with a brief description of your scientific background, your research interests (and how they align with our research), your CV 
-    and a list of references.
+    with a brief description of your scientific background, your research interests (and how they align with our research) and your CV.
 </p>
 </div>
 
