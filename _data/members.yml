@@ -23,19 +23,17 @@
   
 - name: Sanjeev Rajakumar
   image: /images/team/Rajakumar_Sanjeev.png
-  role: undergrad
+  role: alum
   links:
     email: sr115@rice.edu
     linkedin: sanjeev-rajakumar
     github: Sanj-R
-  bio: Sanjeev is an undergraduate student at Rice University majoring in Computer Science and Mathematics.
+  bio: Undergraduate research assistant (Summer 2025).
 
 - name: Luisa Martinez
   image: /images/team/Martinez_Luisa.jpg
   role: alum
   links:
-    email: lim6@rice.edu
-    github: luisa0martinez
     linkedin: luisa-isabel-martinez
   bio: Undergraduate research assistant (Summer 2025).
 
@@ -48,18 +46,26 @@
     linkedin: tehrim-yoon-440930210
   bio: Tehrim is a postdoctoral associate at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
 
-- name: Ishanel Martinez
-  image: /images/team/ishanel_martinez.jpeg
-  role: undergrad
-  links:
-    email: im61@rice.edu
-    linkedin: ishanel-martinez-a5b1ab248
-  bio: Ishanel is an undergraduate student at Rice University majoring in Electrical and Computer Engineering.
-
 - name: Joshua Stallings
   image: /images/team/joshua_stallings.jpeg
-  role: undergrad
+  role: alum
   links:
     email: js232@rice.edu
     linkedin: josh---stallings
-  bio: Joshua is an undergraduate student at Rice University majoring in Computer Science.
+  bio: Undergraduate research assistant (Fall 2025).
+
+- name: Rishab Mandyam
+  image: /images/team/rishab_mandyam.jpeg
+  role: undergrad
+  links: 
+    email: rm153@rice.edu
+    linkedin: rishab-mandyam
+  bio: Rishab is an undergraduate student at Rice University majoring in Computational Neuroscience and Data Science.
+
+- name: Lucy Crawford
+  image: /images/team/lucy_crawford.jpeg
+  role: undergrad
+  links: 
+    email: lc206@rice.edu
+    linkedin: lucy-crawford-28b644383
+  bio: Lucy is an undergraduate student at Rice University majoring in Mathematics and Neuroscience.
