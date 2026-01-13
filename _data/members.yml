@@ -47,6 +47,14 @@
     linkedin: tehrim-yoon-440930210
   bio: Tehrim is a postdoctoral associate at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
 
+- name: Ishanel Martinez
+  image: /images/team/ishanel_martinez.jpeg
+  role: undergrad
+  links: 
+    email: im61@rice.edu
+    linkedin: ishanel-martinez-a5b1ab248
+  bio: Ishanel is an undergraduate student at Rice University majoring in Electrical and Computer Engineering.
+
 - name: Joshua Stallings
   image: /images/team/joshua_stallings.jpeg
   role: alum
@@ -62,7 +70,7 @@
     email: rm153@rice.edu
     linkedin: rishab-mandyam
     github: RishabMandyam
-  bio: Rishab is an undergraduate student at Rice University majoring in Computational Neuroscience and Data Science.
+  bio: Rishab is an undergraduate student at Rice University majoring in Computational Neuroscience and minoring in Data Science.
 
 - name: Lucy Crawford
   image: /images/team/lucy_crawford.jpeg
