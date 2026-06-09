@@ -21,3 +21,7 @@ order: 4
     of these programs, email <a href="mailto:david.lipshutz@bcm.edu">david.lipshutz@bcm.edu</a> for rotation opportunities.
 </p>
 </div>
+
+<div>
+    <p>Unfortunately, we are unable to accommodate high school students at this time.</p>
+</div>
