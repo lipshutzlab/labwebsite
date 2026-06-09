@@ -22,6 +22,8 @@ order: 4
 </p>
 </div>
 
+<h3>High school students</h3>
+
 <div>
     <p>Unfortunately, we are unable to accommodate high school students at this time.</p>
 </div>
