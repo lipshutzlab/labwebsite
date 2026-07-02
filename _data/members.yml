@@ -41,19 +41,19 @@
 - name: Tehrim Yoon
   title: Ph.D.
   image: /images/team/tehrim_yoon.jpeg
-  role: postdoc
+  role: alum
   links:
     email: tehrim.yoon@bcm.edu
     linkedin: tehrim-yoon-440930210
-  bio: Tehrim is a postdoctoral associate at Baylor College of Medicine. He received a Ph.D. in Neuroscience from Johns Hopkins University and a Ph.D. in AI from KAIST.
+  bio: Postdoctoral associate (2025-2026).
 
 - name: Ishanel Martinez
   image: /images/team/ishanel_martinez.jpeg
-  role: undergrad
+  role: alum
   links: 
     email: im61@rice.edu
     linkedin: ishanel-martinez-a5b1ab248
-  bio: Ishanel is an undergraduate student at Rice University majoring in Electrical and Computer Engineering.
+  bio: Undergraduate research assistant (Fall 2025-Spring 2026).
 
 - name: Joshua Stallings
   image: /images/team/joshua_stallings.jpeg
@@ -65,17 +65,25 @@
 
 - name: Rishab Mandyam
   image: /images/team/rishab_mandyam.jpeg
-  role: undergrad
+  role: alum
   links: 
     email: rm153@rice.edu
     linkedin: rishab-mandyam
     github: RishabMandyam
-  bio: Rishab is an undergraduate student at Rice University majoring in Neuroscience and minoring in Data Science.
+  bio: Undergraduate research assistant (Spring 2026).
 
 - name: Lucy Crawford
   image: /images/team/lucy_crawford.jpeg
-  role: undergrad
+  role: alum
   links: 
     email: lc206@rice.edu
     linkedin: lucy-crawford-28b644383
-  bio: Lucy is an undergraduate student at Rice University majoring in Mathematics and Neuroscience.
+  bio: Undergraduate research assistant (Spring 2026).
+
+- name: Ato Kwamena Quansah
+  image: /images/team/ato_kwamena_quansah.jpeg
+  role: undergrad
+  links:
+    email: aq16@rice.edu
+    linkedin: ato-kwamena-quansah-880099198
+  bio: Ato is an undergraduate student at Rice University majoring in Economics and Computer Science.
