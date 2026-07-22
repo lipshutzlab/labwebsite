@@ -35,7 +35,7 @@ order: 4
     field (e.g., Statistics, Physics, Mathematics, Engineering, Computer Science). To join the lab,
     email <a href="mailto:david.lipshutz@bcm.edu">david.lipshutz@bcm.edu</a> with a brief description 
     of relevant research experience (if applicable, though not required) and computational 
-    courses (e.g., Linear Algebra, Probability and Statistics, Machine Learning).</p>
+    courses (e.g., Linear Algebra, Probability and Statistics, Signal Processing).</p>
 </div>
 
 <h3>High school students</h3>
