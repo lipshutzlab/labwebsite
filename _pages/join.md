@@ -5,7 +5,7 @@ permalink: /join
 order: 4
 ---
 
-<h3>Postdocs and research assistants</h3>
+<h3>Postdocs</h3>
 
 <div>
     <p>We're currently looking for a postdoc to join the lab, particularly someone with a 
