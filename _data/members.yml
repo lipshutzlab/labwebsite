@@ -65,12 +65,12 @@
 
 - name: Rishab Mandyam
   image: /images/team/rishab_mandyam.jpeg
-  role: alum
+  role: undergrad
   links: 
     email: rm153@rice.edu
     linkedin: rishab-mandyam
     github: RishabMandyam
-  bio: Undergraduate research assistant (Spring 2026).
+  bio: Rishab is an undergraduate student at Rice University majoring in Neuroscience.
 
 - name: Lucy Crawford
   image: /images/team/lucy_crawford.jpeg

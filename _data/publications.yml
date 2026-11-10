@@ -5,6 +5,13 @@
   ref: Casco-Rodriguez et al. 2026
   pdf: /papers/casco-rodriguez2026model-optimized.pdf
   tag: metric
+- title: On low-dimensional representations and associative memory energy functions
+  year: 2026
+  authors: Lipshutz D
+  journal: New Frontiers in Associative Memory (ICLR Workshop)
+  ref: Lipshutz 2026
+  note: Oral presentation
+  pdf: /papers/lipshutz2026low-dimensional.pdf
 - title: Global stability of a Hebbian/anti-Hebbian network for principal subspace learning
   year: 2026
   authors: Lipshutz D, Lipshutz RJ
